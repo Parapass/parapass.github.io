@@ -373,7 +373,7 @@ kbd {
     --muted-color: #73828c;
     --muted-border-color: #1f2d38;
     --primary: #10a6c1;
-    --primary-hover: #10a6c100;
+    --primary-hover: #10a6c10a;
     --primary-focus: rgba(16, 149, 193, 0.25);
     --primary-inverse: #FFF;
     --secondary: #596b78;
