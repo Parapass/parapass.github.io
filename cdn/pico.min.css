@@ -376,9 +376,9 @@ kbd {
     --primary-hover: #36454F;
     --primary-focus: rgba(16, 149, 193, 0.25);
     --primary-inverse: #FFF;
-    --secondary: #495D6A;
-    --secondary-hover: #36454F;
-    --secondary-focus: rgba(115, 130, 140, 0.25);
+    --secondary: #9da6ac;
+    --secondary-hover: #a9b5bd;
+    --secondary-focus: rgba(195, 208, 218, 0.25);
     --secondary-inverse: #FFF;
     --contrast: #edf0f3;
     --contrast-hover: #FFF;
