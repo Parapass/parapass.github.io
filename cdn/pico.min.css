@@ -372,13 +372,13 @@ kbd {
     --h6-color: #aebbc3;
     --muted-color: #73828c;
     --muted-border-color: #1f2d38;
-    --primary: #10a6c1;
-    --primary-hover: #15c0df;
+    --primary: #495D6A;
+    --primary-hover: #36454F;
     --primary-focus: rgba(16, 149, 193, 0.25);
     --primary-inverse: #FFF;
-    --secondary: #596b78;
-    --secondary-hover: #73828c;
-    --secondary-focus: rgba(115, 130, 140, 0.25);
+    --secondary: #9da6ac;
+    --secondary-hover: #a9b5bd;
+    --secondary-focus: rgba(195, 208, 218, 0.25);
     --secondary-inverse: #FFF;
     --contrast: #edf0f3;
     --contrast-hover: #FFF;
