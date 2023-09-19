@@ -6,7 +6,7 @@ function loadVideo(iframe) {
       var videoNumber = (iframe.getAttribute('vnum') ? Number(iframe.getAttribute('vnum')) : 0);
       console.log(videoNumber);
       var link = data.items[videoNumber].link;
-      var title=data.items[videoNumber].title;
+      var title = data.items[videoNumber].title;
       id = link.substr(link.indexOf("=") + 1);
       iframe.setAttribute("src", "https://youtube.com/embed/" + id);
       iframe.parentElement.querySelector("#video-title").innerText = title;
